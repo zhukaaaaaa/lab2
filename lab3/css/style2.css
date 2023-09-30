@@ -1,0 +1,15 @@
+body{
+    padding-top: 100px;
+    text-align: center;
+    background-color: aliceblue;
+}
+h2{
+    margin-bottom: 50px;
+}
+p{
+    color: cornflowerblue;
+}
+
+.button{
+    margin-top: 20px;
+}
